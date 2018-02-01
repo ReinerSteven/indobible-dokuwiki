@@ -1,0 +1,19 @@
+/*
+ * Style for Indonesian Bible Verses
+ */
+.tooltip-inner {
+    min-width: 400px;
+    /* If max-width does not work, try using width instead */
+    max-height: 400px !important;
+    overflow-y:scroll 
+}
+
+.tooltip-inner {
+    text-align: left;
+}
+
+alkitab .popover {
+  max-width:500px;
+  max-height:350px;
+  overflow-y:scroll 
+}

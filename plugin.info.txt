@@ -1,0 +1,7 @@
+base   indobible
+author Budi Susanto
+email  budsus@ti.ukdw.ac.id
+date   2016-12-30
+name   Indonesian Bible Plugin
+desc   provides a tag to recognize a text that follow bible verse chapters and numbers syntax in order to display Indonesian bible as a tool tip
+url    http://www.dokuwiki.org/plugin:indobible
